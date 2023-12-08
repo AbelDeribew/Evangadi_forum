@@ -1,0 +1,36 @@
+.askQuestion{
+    text-align: center;
+    padding: 10px 0;
+}
+.askQuestion ul{
+    list-style-type: none;
+}
+.askQuestion ul li{
+   margin: 10px 0;
+}
+
+
+.askQuestion-discription{
+    /* height: 250px !important; */
+}
+.askQuestion textarea{
+    background-color: #F5F5F6;
+}
+.allQuestion-button{
+    background-color: #516cf0;
+    padding: 13px 70px;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    font-size: 14px;
+}
+.allQuestion-button:hover{
+  background-color: #FE8402;
+}
+.blue{
+    color: #FE8402;
+}
+.askQuestion input{
+   
+     height: 50px;
+}

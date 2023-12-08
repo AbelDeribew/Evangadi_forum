@@ -1,0 +1,38 @@
+.mainQuestionWrapper {
+	/* margin: 0 100px; */
+}
+.mainQuestionWrapper > div {
+	margin: 15px 0;
+}
+.singleQDescritpion {
+	padding-bottom: 20px;
+	border-bottom: 1px solid grey;
+}
+.community {
+	border-bottom: 1px solid grey;
+	padding-bottom: 20px;
+}
+.singleQAnswers {
+	display: flex;
+	align-items: center;
+	padding: 20px 0;
+	border-bottom: 1px solid grey;
+}
+.questionAnswer-button {
+	background-color: #516cf0;
+	padding: 13px 75px;
+	border-radius: 5px;
+	border: none;
+	color: white;
+	font-size: 14px;
+}
+.questionAnswer-button:hover {
+	background-color: #fe8402;
+}
+.questionAnswer {
+	text-align: center;
+}
+.textArea {
+	width: 80%;
+	height: 250px;
+}

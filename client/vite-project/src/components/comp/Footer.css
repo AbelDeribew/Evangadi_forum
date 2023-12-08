@@ -1,0 +1,19 @@
+.mainFooterWrapper{
+    background-color: #3B455A;
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+    
+}
+.mainFooterWrapper ul{
+    list-style-type: none;
+}
+.footer > li{
+    color: white;
+}
+ul  li{
+    margin-top: 10px;
+}
+.color{
+    color: grey;
+}

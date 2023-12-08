@@ -1,0 +1,53 @@
+.mainRegisterWrapper{
+    background-color: white;
+    padding: 40px;
+    border-radius: 10px;
+}
+.inputs input{
+    width: 100%;
+    /* width: 450px; */
+    height: 45px;
+    margin: 5px 0px;
+    padding-left: 10px;
+    border-radius: 3px;
+    border: 1px solid grey;
+}
+.textCenter{
+    text-align: center;
+}
+.textCenter a{
+   color: #FE8402;
+}
+.joinNetwork{
+    margin-bottom: 25px;
+}
+.firstAndLastName input{
+    width: 50%px;
+}
+.firstAndLastName{
+    display: flex;
+    justify-content: space-between;
+}
+.button{
+    background-color: #516cf0;
+    padding: 13px 50px;
+    /* padding: 13px 0; */
+    border-radius: 5px;
+    border: none;
+    color: white;
+    font-size: 14px;
+    width: 100%;
+}
+.display{
+    display: none;
+}
+.orange{
+    color: #FE8402;
+}
+.forgetPass{
+    text-align: right;
+    margin:15px 0;
+}
+.red{
+    color: red;
+}

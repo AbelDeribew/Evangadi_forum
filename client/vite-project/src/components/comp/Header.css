@@ -1,0 +1,41 @@
+.mainHeaderWrapper{
+    height: 80px;
+    padding: 20px 0;
+    /* display: flex; */
+    /* justify-content: space-between; */
+    /* margin: 20px; */
+}
+.lists{
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+}
+.lists > li{
+    margin: 0 20px;
+    color: grey;
+}
+.button{
+    background-color: #516cf0;
+    padding: 13px 75px;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    font-size: 14px;
+}
+
+.button:hover{
+    background-color: #FE8402;
+}
+.phoneLogout{
+    text-align: right;
+}
+.phoneLogout > button{
+    padding: 5px 20px;
+    color: white;
+    background-color: #516cf0;
+    border: none;
+}
+.phoneLogout:hover{
+    background-color: #FE8402;
+    border-radius: 5px; 
+}
